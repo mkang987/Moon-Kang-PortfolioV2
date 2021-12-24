@@ -1,3 +1,11 @@
+.prj1Info {
+    font-size: x-large;
+}
+
+.bioInfo {
+    font-size: xx-large;
+}
+
 .largeFont {
     font-size: 6rem;
     padding-bottom: 3rem;
@@ -11,4 +19,9 @@
 .mainProjectPic {
     width: 600px;
     height: 420px;
+}
+
+.card {
+    border: solid 1px lightseagreen;
+    margin: 2rem;
 }
